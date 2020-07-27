@@ -22,7 +22,7 @@ Normally to practice my code skill and learn from others code.
 - Create files.
 - Write down user stories.
 - Write down HTML code. ` try to make the clock in 4 parts 12, 3, 6 and 9.`
-- Write down js code.`divide the file in two parts in listener and handler. the handler function has three content for min, second and hour. And setInterval time. `
+- Write down js code.`divide the file in two parts in listener(in this case we don have any listener file) and handler. the handler function has three content for min, second and hour. And setInterval time. `
 - Style in CSS.`try to make it a real wal-clock`.
 
 ## obstacles
