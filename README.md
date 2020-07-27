@@ -1,2 +1,2 @@
 # Javascript-clock
-javascript practice from https://javascript30.com/ 
+javascript practice from [Javascript-30](https://javascript30.com/ )
